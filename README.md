@@ -1,8 +1,5 @@
-# rtextmining
-R shiny tool for textmining
+## rtextmining
 
-
-# rmls
 Title: rtextmining\
 Version: 0.0.0.9001\
 Author: Youngeun Shin <shinyoungeun1130@gmail.com>\
