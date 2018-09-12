@@ -1,0 +1,36 @@
+Package: rtextmining
+Title: R shiny tool for textmining 
+Version: 0.0.0.9000
+Author: Youngeun Shin <shinyoungeun1130@gmail.com>
+Authors@R: person("Youngeun", "Shin", email = "shinyoungeun1130@gmail.com", role = c("aut", "cre"))
+Description: R shiny tool for textmining 
+Depends: 
+	R (>= 3.4.4),
+	shiny (>= 1.0.5)
+Imports: 
+	shiny (>= 1.0.5),
+	tm (>= 0.7),
+	wordcloud (>= 2.5),
+	wordcloud2 (>= 0.2.0),
+	shinythemes (>= 1.1.1),
+	markdown (>= 0.8),
+	DT (>= 0.4),
+	sentimentr (>= 2.2.3),
+	dplyr (>= 0.7.6),
+	tidytext (>= 0.1.5),
+	ggplot2 (>= 3.0.0),
+	tidyr (>= 0.8.1),
+	nlstools (>= 1.0),
+	minpack.lm (>= 1.2),
+	reshape2 (>= 1.4.3),
+	RColorBrewer (>= 1.1),
+	shinyjs (>= 1.0),
+	shinydashboard (>= 0.7.0),
+	qdap (>= 2.2.9),
+	extrafont (>= 0.17)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0.9000
+
+
